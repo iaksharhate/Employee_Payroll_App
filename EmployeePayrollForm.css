@@ -134,7 +134,7 @@ select {
     background-color: transparent;
 }
 
-/* UC 6 */
+/* UC 6 and 7 */
 
 .buttonParent {
     display: flex;
@@ -156,6 +156,7 @@ select {
     padding: 7px 7px;
     border: 1px solid #707070;
     cursor: pointer;
+    border-radius: 4px;
 }
 
 .submitButton {
@@ -209,3 +210,6 @@ select {
         align-items: flex-start;
     }
 }
+
+/* UC 7 */
+
